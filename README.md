@@ -1,30 +1,266 @@
-# Practica_en_HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="File:HTML5 logo and wordmark.svg - Wikimedia Commons" data-noaft="1" style="width: 80px; height: 80px; margin: 2px;">
+<div align="center">
+  <img  align="center" src="https://github.com/Brayan-Hc11/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=80px">
 
-This is a repository where you can view simple exercises with HTML 5 with which you can start in this language.
-HTML, an acronym for HyperText Markup Language, refers to the markup language for creating web pages. 🕵️‍♂️🕴
+  # Ruta de aprendizaje para HTML
 
-***
-## Temario
+</div>
 
 
-- INICIO HTML
-- Introducción HTML
-- Editores HTML
-- HTML básico
-- Elementos HTML
-- Atributos HTML
-- Encabezados HTML
-- Párrafos HTML
-- Estilos HTML
-- Formato HTML
-- Cotizaciones HTML
-- Comentarios HTML
-- Colores HTML
-- CSS HTML
-- Enlaces HTML
-- Imágenes HTML
-- icono de favoritos HTML
-- Título de la página HTML
+
+<details>
+  <summary>
+    INICIO en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Introducción a HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Editores en  HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    HTML básico
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Elementos en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+   Atributos en  HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+   Encabezados en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+     Párrafos en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Estilos en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Formatos en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+   Cotizaciones en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Comentarios en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Colores en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    CSS en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Enlaces en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+   Imagenes en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Icono de favoritos en HTML
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Título de la página en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Tablas en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Listas en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+   Bloques en HTML y líneas 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Clasee en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Identificación en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Marcos flotantes en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    JavaScript en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Rutas de archivo en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+  Encabezados en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Título de la página en HTML 
+  </summary>
+
+  ***
+</details>
+
+<details>
+  <summary>
+    Título de la página en HTML 
+  </summary>
+
+  ***
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Tablas HTML
 - Listas HTML
 - Bloque HTML y en línea
@@ -46,6 +282,7 @@ HTML, an acronym for HyperText Markup Language, refers to the markup language fo
 - Codificación de URL HTML
 - HTML frente a XHTML
 
+<!--
 ***
 ### Formularios HTML
 - Formularios HTML
@@ -105,3 +342,4 @@ HTML, an acronym for HyperText Markup Language, refers to the markup language fo
 - Métodos HTTP
 - Convertidor PX a EM
 - Atajos de teclado
+-->
