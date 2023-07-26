@@ -225,7 +225,7 @@
 
 <details>
   <summary>
-    Título de la página en HTML 
+    Diseño en HTML 
   </summary>
 
   ***
@@ -233,54 +233,83 @@
 
 <details>
   <summary>
-    Título de la página en HTML 
+    Responsive en HTML 
   </summary>
 
   ***
 </details>
 
+<details>
+  <summary>
+    Código informático en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    Semenaticá en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    Guía de estilos en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    Entidades en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    Símbolos en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    Emoticones en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    Juego de carácteres en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    Codificación de url en HTML 
+  </summary>
 
+  ***
+</details>
 
+<details>
+  <summary>
+    HTML frente a XTHML 
+  </summary>
 
-
-
-
-
-
-- Tablas HTML
-- Listas HTML
-- Bloque HTML y en línea
-- Clases HTML
-- Identificación HTML
-- Marcos flotantes HTML
-- HTML JavaScript
-- Rutas de archivo HTML
-- Encabezado HTML
-- Diseño HTML
-- Responsivo HTML
-- Código informático HTML
-- Semántica HTML
-- Guía de estilo HTML
-- Entidades HTML
-- Símbolos HTML
-- Emoticonos HTML
-- Juego de caracteres HTML
-- Codificación de URL HTML
-- HTML frente a XHTML
+  ***
+</details>
 
 <!--
 ***
