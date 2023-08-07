@@ -80,6 +80,20 @@ Un elemento se define mediante una etiqueta de inicio, algo de contenido y una e
 |br    |none              |none |
 
 __Nota:__ Algunos elementos HTML no tienen contenido (como el elemento br). Estos elementos se denominan elemntos vacíos. Los elementos vacíos no tienen etiqueta final.
+
+***
+## Navegadores web
+El propósito de un navegador web (Chrome, Edge, Firefox, Safari) es leer documentos HTML y mostrarlos correctamente. Un navegador no muestra las etiquetas HTML, pero las usa para determinar cómo mostrar el documento:
+
+![image](https://github.com/Brayan-Hc11/HTML5/assets/118775234/add05f1b-d67c-412d-b701-1b5fc87e7c5f)
+
+## Estructura de al página HTML
+
+A continuación se muestra una vizualización de la estructura de una página HTML:
+
+![image](https://github.com/Brayan-Hc11/HTML5/assets/118775234/70a99fe6-7f74-4f7d-afcd-0d0b82defff5)
+
+__Nota:__ El contenido al interior de la sección ´body' se mostrará en un navegador. El contenido dentro del elemento 'title' se mostrará en la barra de título del navegador o en la pestaña de la página.
 </details>
 
 <details>
@@ -88,6 +102,12 @@ __Nota:__ Algunos elementos HTML no tienen contenido (como el elemento br). Esto
   </summary>
 
   ***
+  Un simple editor de texto es todo lo que se necedita para aprender HMTL.
+
+  ## Aprenda HTML atraves del Bloc de notas o un Editor de texto
+  Las páginas web se pueden crear y modificar utilizando editores HTML profesionales. Sin embargo, para apreder HTML recomiendo un editor de texto simple como Notepad para (PC).
+
+  Creeemos que usar un editor de texto simple es una buena manera de aprender HTML. 
 </details>
 
 <details>
