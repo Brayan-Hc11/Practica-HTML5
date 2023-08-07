@@ -107,7 +107,8 @@ __Nota:__ El contenido al interior de la sección ´body' se mostrará en un nav
   ## Aprenda HTML atraves del Bloc de notas o un Editor de texto
   Las páginas web se pueden crear y modificar utilizando editores HTML profesionales. Sin embargo, para apreder HTML recomiendo un editor de texto simple como Notepad para (PC).
 
-  Creeemos que usar un editor de texto simple es una buena manera de aprender HTML. 
+  Creeemos que usar un editor de texto simple es una buena manera de aprender HTML.
+  ***
 </details>
 
 <details>
