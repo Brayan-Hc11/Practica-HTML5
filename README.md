@@ -12,7 +12,11 @@
     INICIO en HTML
   </summary>
 
-  ***
+***
+- HTML es el lenguaje de marcado para las paginas web.
+- Con HTML puedes crear tu propio sitio web.
+- HTML es fácil de aprender 
+***
 </details>
 
 <details>
@@ -20,7 +24,8 @@
     Introducción a HTML
   </summary>
 
-  ***
+***
+***
 </details>
 
 <details>
