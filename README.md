@@ -117,6 +117,89 @@ __Nota:__ El contenido al interior de la sección ´body' se mostrará en un nav
   </summary>
 
   ***
+  ## Ejemplos básicos de HTML
+
+  En este apartado mostraremos unos ejemplos básicos de HTML 
+
+  ***
+  ## Documentos HTML 
+
+  Todos los documentos HTML deben comenzar con una declaración de tipo documento:
+  ~~~
+<!DOCTYPE html>
+  ~~~
+
+  El documento HTML es sí comienza con la etiqueta de apertura y finaliza con la etiqueta de cierre:
+  ~~~
+<html>
+
+</html>
+  ~~~
+
+El contenido visual del documento HMTL está entre la etiqueta de cuerpo o de body
+~~~
+<body>
+
+</body>
+~~~
+
+***
+## Uso de la declaración !DOCTYPE
+
+La declaración representa el tipo de documento y ayuda a los navegadores a mostrar correctamente las páginas web. Solo debe aparecer una vez, en la parte superior de la página (antes de cualquier etiqueta HTML).
+
+La declaración no distingue entre mayúsculas y minúsculas.
+
+_Declaración de la estructura es:_
+~~~
+<!DOCTYPE html>
+~~~
+
+***
+## Encabezados en HTML
+
+Los encabezados HTML se defienen con las etiquetas h1 a h6 que representas las diferentes escalas de encabezados en HTML
+
+~~~
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h5></h5>
+~~~
+
+***
+## párrafos en HMTL
+
+Los párrafos en HTML se definen con la etiqueta p que nos ayuda a contener los párrafos 
+
+~~~
+<p>This is a Paragrph.</p>
+<p>This is another Paragrph</p>
+~~~
+
+***
+## Enlaces en HTML 
+
+Los enlaces en HTML se definen con la etiqeuta a 
+
+~~~
+<a href="dirección de url">This is a link</a>
+~~~
+_Nota:_ El destino del enlace se especifica en el atributo href. Los atributos se utilizan para poporcionar infromación adicional sobre los elmentos HTML.
+
+***
+## Imagenes en HTML 
+
+Las imagenes en HTML se definen con la eeiqueta de img 
+
+El archivo de origen _scr_, el texto alternativo _alt_, y las propiedades _width_ y height se proporcionan como atibutos en la etiqueta
+~~~
+<img src="dirección de la imagen" alt="texto alternativo" width="104" height="142">
+~~~
+
+***
 </details>
 
 <details>
