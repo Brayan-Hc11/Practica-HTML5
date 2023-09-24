@@ -208,6 +208,38 @@ El archivo de origen _scr_, el texto alternativo _alt_, y las propiedades _width
   </summary>
 
   ***
+  Un elemento HTML se define mediante una etiqueta de inicio, aldo de contenido y una etiqueta de cierre.
+
+  ***
+
+  ## Elementos HTML
+
+  __El elemento HTML__ es todo, desde la etiqueta inicial hasta la etiqueta final:
+  
+  ~~~
+<Nombre de la etiqueta> El contenido va aquí </Nombre de la etiqueta>
+  ~~~
+
+***
+## Elementos HTML anidados
+
+Los elementos HTML se pueden anidar(esto significa que los elementos pueden contener otros elementos).
+Todos los elementos HTML constan de elementos HTML anidados.
+
+El siguiente ejemplo contiene cuatro elementos HTMl
+
+__Ejemplo:__
+
+~~~
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First Heading</h1>
+    <p>My First Parragraph.</p>
+  </body>
+</html>
+~~~
+  
 </details>
 
 <details>
