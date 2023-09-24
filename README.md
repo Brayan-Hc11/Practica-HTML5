@@ -335,7 +335,39 @@ El estandar HTML no requiere etiquetas en minúsculas, pero el W3C __recomienda_
 - Todos los elementos HTML pueden tener __atributos__.
 - Los __atributos__ proporcionan __información adicional__ sobre los elementos.
 - Los __atributos__ siempre se especifican en la __etiqueta de inicio__.
-- Los __atributos__ normalamente vienen en pares nombre/valor como: __nombre="valor"__.     
+- Los __atributos__ normalamente vienen en pares nombre/valor como: __nombre="valor"__.
+
+***
+## El atributo href 
+
+La etiqueta `<a>` define un hipervinculo. El href atributo especifica la URL de la página a la que va el enlace:
+
+__Ejemplo:__
+
+~~~
+<a href="https://google.com">Vistit Google</a>
+~~~
+
+***
+## El atributo src
+
+La etiqueta `<img>` se utiliza para incrusar una imagen en una página HTML. El atributo src especifica la ruta a la imagen que se mostrará:
+
+__Ejemplo:__
+
+~~~
+<img src="img_girl.jpg">
+~~~
+
+Hay dos formas de especificar la URL en el atributo src:
+
+__1.URL adsoluta:__ enlaces a una imagen externa alojada en otro sitio web. Ejemplo: src="https://www.w3schools.com/images/img_girl.jpg"
+
+__Notas:__ Las imagenes externas pueden tener derechos de autor. si no obtiene permiso para usarlo, es posible que esté infringiendo las leyes de derechos de autor.
+Además, no puedes controlar las imágenes externas; se pueden eliminar o cambiar repentidamente.
+
+__2.URL relativa:__ enlaces a una imagen alojada en el sitio web.Aquí, la URL no incluye el nombre del dominio.Si la URL comienza 
+
 </details>
 
 <details>
