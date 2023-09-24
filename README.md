@@ -239,7 +239,67 @@ __Ejemplo:__
   </body>
 </html>
 ~~~
-  
+
+__Proceso de ejecución:__
+
+El elemento `<html>` es el elemento raiz y define todo el documento HtML.
+
+Tiene una etiqueta de inicio `<html>` y una etiqueta de cierre `</html>`.
+
+Entonces dentrol del elemento `<html>` hay un elemento `<body>`:
+
+~~~
+<body>
+  <h1>My First Heading</h1>
+  <p>My First paragraph.</p>
+</body>
+~~~
+
+El elemento `<dody>` define el cuerpo del documento.
+
+Tiene una etiqueta de inicio `<doby>` y una etiqueta de cierre `</body>`.
+
+Luego, dentro del elemento `<body>` hay dentro otros dos elementos: `<h1>` y `<p>`:
+
+~~~
+<h1>My First Heading</h1>
+<p>My First Paragraph.</p>
+~~~
+
+El elemento `<h1>` defiene un encabezado.
+
+Tiene una etiqueta de inicio `<h1>` y una etiqueta final `</h1>`:
+
+~~~
+<h1>My First Heading</h1>
+~~~
+
+El elemento `<p>` define un párrafo.
+
+Tiene una eitiqueta de inicio `<p>` y una etiqueta final `</p>`:
+
+~~~
+<p>My First paragraph.</p>
+~~~
+
+***
+## Nunca te saltes la etiqueta final
+Algunos elementos HTML se mostrarán correctamente, incluso si olvida la etiqueta final:
+
+__Ejemplo:__
+
+~~~
+<html>
+<body>
+
+  <p>This is a Paragraph
+  <p>This is a Paragraph
+
+</body>
+</html>
+~~~
+
+Sin embargo, ¡Nunca confies en esto! ¡Puede ocurrir errores y resultados inesperados si olvida la etiqueta final!
 </details>
 
 <details>
