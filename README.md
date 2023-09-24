@@ -5,8 +5,6 @@
 
 </div>
 
-
-
 <details>
   <summary>
     INICIO en HTML
@@ -300,6 +298,26 @@ __Ejemplo:__
 ~~~
 
 Sin embargo, ¡Nunca confies en esto! ¡Puede ocurrir errores y resultados inesperados si olvida la etiqueta final!
+
+***
+## Elementos HTML vacíos 
+Los elementos HTML sin contenido se denominan elemnetos vacíos.
+
+La etiqueta `<br>` define un salto de línea y es un elemento vacío sin etiqueta de cierre:
+
+__Ejemplo:__
+
+~~~
+<p>This is a <br> paragraph with a line break.</p>
+~~~
+
+***
+## HTML no distingue entre mayúsculas y minúsculas
+Las etiquetas HTML no distiguen entre mayúsculas y minúsculas: `<P>` significa lo mismo que `<p>`.
+
+El estandar HTML no requiere etiquetas en minúsculas, pero el W3C __recomienda__ minúsculas en HTML y __exige__ minúsculas para tipos de documentos más estrictos como XHTML.
+
+***
 </details>
 
 <details>
