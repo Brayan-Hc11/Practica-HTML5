@@ -326,6 +326,16 @@ El estandar HTML no requiere etiquetas en minúsculas, pero el W3C __recomienda_
   </summary>
 
   ***
+  Los atributos HTML proporcionan información adicional sobre los elementos HTML.
+
+***
+
+## Atricutos HTML
+
+- Todos los elementos HTML pueden tener __atributos__.
+- Los __atributos__ proporcionan __información adicional__ sobre los elementos.
+- Los __atributos__ siempre se especifican en la __etiqueta de inicio__.
+- Los __atributos__ normalamente vienen en pares nombre/valor como: __nombre="valor"__.     
 </details>
 
 <details>
