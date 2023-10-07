@@ -40,6 +40,10 @@ El elemento `<head>` nos permite contener la metainformación. La __metainformac
 
 -   La declaración `<meta>` con el atributo `name='viewport'` es la encargada de que el sitio web se vea y funcione de manera óptima en los dispositivos móviles miestras que el atirbuto `content='width=device-width, initial-scale=1.0 '` sirve para configurar el ancho del dispositivo `width=device-width`, y el nivel de zoom cuando la página se carga por primera vez `initial-scale=1.0`.
 
+~~~
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+~~~
+
 -   El elemento `<tilte>` es capaz de mostrarle al usuario el título de la página web en la pestaña de navegación del navegador que esté usando, si esta etiqueta no llega a presentar un contenido de texto entre la etiqueta de apertura y la etiqueta de cierre, por defecto nos mostrará el servidor local y  el nombre del archivo o ruta de alojamiento en donde se encuentra el documento.
 
 -   El elemento `<body>`  es el que contendra el cuerpo del documento __HTML__ todas las etiqutas que se encuentren en su interior serán visibles para el usuario y se verán reflejadas en el navegador.
