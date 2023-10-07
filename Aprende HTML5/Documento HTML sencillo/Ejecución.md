@@ -17,7 +17,7 @@
     </html>
 ~~~
 ## Explicación de la estrutura
--   La  declarción `<!DOCTYPE html>` define que este documento, es un documento de tipo __HTML__.
+-   La  declaración `<!DOCTYPE html>` define que este documento, es un documento de tipo __HTML__.
 -   El elemento `<html>` es el elemento raíz de una página __HTML__.
 -   El elemento `<head>` es el elemento que contiene la metainformación de la página __HTML__.
 -   El elemento `<tilte>` es el elemento encargado de especificar un título para la página __HTML__(que se muestra en la barra del título del navegador o en la pestaña de la página).
