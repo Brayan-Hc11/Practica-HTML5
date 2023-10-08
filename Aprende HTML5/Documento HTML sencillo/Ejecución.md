@@ -20,7 +20,7 @@
 -   La  declarción `<!DOCTYPE html>` define que este documento, es un documento de tipo __HTML__.
 -   El elemento `<html>` es el elemento raíz de una página __HTML__.
 -   El elemento `<head>` es el elemento que contiene la metainformación de la página __HTML__.
--   El elemento `<tilte>` es el elemento encargado de especificar un título para la página __HTML__(que se muestra en la barra del título del navegador o en la pestaña de la página).
+-   El elemento `<title>` es el elemento encargado de especificar un título para la página __HTML__(que se muestra en la barra del título del navegador o en la pestaña de la página).
 -   El elemento `<body>` es el elemento que define el cuerpo del documento y es un contenedor de todos los datos visibles, como encabezados, párrafos, imagenes, hipervinculos, tablas, listas, etc.
 -   El elemento `<h1>` es el elemento que define un encabezado principal en la página __HTML__.
 -   El elemento `<p>` es le elemento que defien un párrafo en la página __HTML__.
