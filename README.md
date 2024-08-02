@@ -1,10 +1,6 @@
-<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="120" height="120"/>
 
-![image](https://github.com/Brayan-Hc11/Practica-HTML5/assets/118775234/ade96dac-d9e1-4b69-85c7-8c2590a2f10d)
-
-
-  # Ruta de aprendizaje para HTML
-</div>
+# Ruta de aprendizaje para HTML
 
 ## INICIO en HTML
 
